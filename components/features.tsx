@@ -53,7 +53,7 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(1); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Bridging the gap</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Bridging the Tomorrow</div>
                     <div className="text-gray-600">Built for forward thinking companies. Enabling businesses to make informed decisions and maximize their potential.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
@@ -68,8 +68,8 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(2); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Building for tomorrow</div>
-                    <div className="text-gray-600">Develop a streamlined process for integrrating AI technologyand get ahead of your competition.</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Building for Gap</div>
+                    <div className="text-gray-600">Develop a streamlined process for integrating AI technology and get ahead of your competition.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -83,7 +83,7 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(3); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Unlock new potentials</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Unlock New Potential</div>
                     <div className="text-gray-600">Discover how AI technology can help your business unlock new levels.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
